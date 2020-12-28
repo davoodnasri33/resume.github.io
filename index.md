@@ -2,7 +2,6 @@
 
 ### رزومه
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Markdown
 # مدرک تحصیلی
@@ -14,9 +13,3 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2.تاسیس شرکت ایمن نگر آرین(زمینه کاری: امنیت اماکن) سال 1394
 3.مسئول فناوری اطلاعات و کارشناس اجرای برق - شرکت گسترش صنعت ایران - پروژه ایرانمال - از 1395 تا 1397
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
